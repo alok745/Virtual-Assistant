@@ -23,12 +23,13 @@ To create an interactive virtual assistant that communicates using natural langu
 
 ## 🛠️ Technologies & Tools Used
 
-| Frontend | Backend (optional) | APIs |
-|----------|--------------------|------|
-| HTML5    | Node.js (optional) | Web Speech API |
-| CSS3     | Express.js         | Text-to-Speech API |
-| JavaScript | —                | —    |
+HTML5 – To structure the web interface
 
----
+CSS3 – For styling, layout, and design
 
-## 📂 Folder Structure
+JavaScript – Handles the logic, voice recognition, and assistant response using browser APIs
+
+Web Speech API – For voice input (Speech Recognition)
+
+SpeechSynthesis API – For voice output (Text-to-Speech)
+
